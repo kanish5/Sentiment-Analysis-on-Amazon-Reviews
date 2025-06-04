@@ -78,3 +78,7 @@ sentiment-analysis/
 
 ## 🔗 Author
 
+👤 Kanish Tyagi
+📫 kanishtyagi123@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/kanishtyagi123) | [GitHub](https://github.com/kanish5)
+
